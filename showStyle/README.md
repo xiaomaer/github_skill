@@ -99,3 +99,12 @@
     1. 列表3.2.1
 
 ####复选框列表
+
+###文本缩进
+>Once you are happy with your document, you can publish it on different websites directly from StackEdit. As for now, StackEdit can publish on Blogger, Dropbox, Gist, GitHub, Google Drive, Tumblr, WordPress and on any SSH server.
+
+####多级缩进
+> 第一级，一个“>”符号
+>> 第二级，两个">"符号
+>>> 第三级，三个“>”符号
+>>>> 第四级，四个“>”符号，依次类推 
