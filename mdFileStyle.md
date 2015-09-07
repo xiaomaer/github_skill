@@ -101,6 +101,10 @@
     1. 列表3.2.1
 
 ####复选框列表
+- [x] 选项1（已选）
+- [ ] 选项2（未选）
+- [x] 选项3（已选）
+- [ ] 选项4（未选）
 
 ###文本缩进
 >Once you are happy with your document, you can publish it on different websites directly from StackEdit. As for now, StackEdit can publish on Blogger, Dropbox, Gist, GitHub, Google Drive, Tumblr, WordPress and on any SSH server.
