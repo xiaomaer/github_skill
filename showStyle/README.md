@@ -63,7 +63,9 @@
 [小马的博客](http://y.dobit.top/ "悬停显示")  
 
 ####链接到仓库的url
-[小马的github](../README.md)
+[相对地址](../README.md)
+
+[绝对地址](https://github.com/xiaomaer/github_skill/)
 
 ####锚
 [回到顶部](#)
