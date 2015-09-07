@@ -136,14 +136,15 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 ```
 
 ###表格
-Item     | Value
--------- | ---
-Computer | $1600
-Phone    | $12
-Pipe     | $1
+####普通表格
+|Item     | Value|
+|-------- | -----|
+|Computer | $1600|
+|Phone    | $12  |
+|Pipe     | $1   |
 
-####表格某列单元格文本居中
-| Item     | Value | Qty   |
+####表格某列单元格文本对齐方式
+| 左对齐   | 右对齐| 居中  |
 | :------- | ----: | :---: |
 | Computer | $1600 |  5    |
 | Phone    | $12   |  12   |
