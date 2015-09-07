@@ -117,8 +117,8 @@
 ![网络图片有悬停](http://7xj89g.com1.z0.glb.clouddn.com/demo2.jpg?imageView2/2/w/400/q/50 "我是悬停信息")
 
 ####插入来自仓库的图片
-![来自仓库的图片绝对地址](https://github.com/xiaomaer/github_skill/blob/master/1.gif "绝对地址显示")
-![来自仓库的图片相对地址](../2.gif "相对地址显示")
+![来自仓库的图片绝对地址](https://github.com/xiaomaer/github_skill/blob/master/img/1.gif "绝对地址显示")
+![来自仓库的图片相对地址](./img/2.gif "相对地址显示")
 
 ####给图片加上链接
 [![myblog]](http://y.dobit.top/)  
