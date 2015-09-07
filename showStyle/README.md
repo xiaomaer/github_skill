@@ -149,3 +149,8 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 | Computer | $1600 |  5    |
 | Phone    | $12   |  12   |
 | Pipe     | $1    |  234  |
+
+###添加表情
+:sparkling_heart:
+:green_heart:
+:star:
