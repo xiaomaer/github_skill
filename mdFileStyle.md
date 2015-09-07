@@ -118,7 +118,7 @@
 
 ####插入来自仓库的图片
 ![来自仓库的图片绝对地址](https://github.com/xiaomaer/github_skill/blob/master/img/1.gif "绝对地址显示")
-![来自仓库的图片相对地址](../img/2.gif "相对地址显示")
+![来自仓库的图片相对地址](./img/2.gif "相对地址显示")
 
 ####给图片加上链接
 [![myblog]](http://y.dobit.top/)  
