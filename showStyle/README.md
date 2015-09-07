@@ -60,6 +60,7 @@
 * 普通效果  
 [小马的博客](http://y.dobit.top/)
 * 鼠标悬停显示效果  
-[小马的博客](http://y.dobit.top/ "悬停显示")
-####连接到仓库的url
-[小马的github](./README.md)
+[小马的博客](http://y.dobit.top/ "悬停显示")  
+
+####链接到仓库的url
+[小马的github](../README.md)
