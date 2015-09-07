@@ -110,3 +110,16 @@
 >>第二级，两个">"符号
 >>> 第三级，三个“>”符号
 >>>> 第四级，四个“>”符号，依次类推 
+
+###插入图片
+####插入来自网络的图片
+![网络图片无悬停](http://7xj89g.com1.z0.glb.clouddn.com/demo3.jpg?imageView2/2/w/400/q/50)
+
+![网络图片有悬停](http://7xj89g.com1.z0.glb.clouddn.com/demo3.jpg?imageView2/2/w/400/q/50 "我是悬停信息")
+
+####插入来自仓库的图片
+![来自仓库的图片](http://7xj89g.com1.z0.glb.clouddn.com/demo3.jpg?imageView2/2/w/400/q/50)
+
+####给图片加上链接
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
