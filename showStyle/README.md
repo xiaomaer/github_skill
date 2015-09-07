@@ -1,3 +1,4 @@
+##top
 ##设置README.md文件格式。
 
 ### 横线
@@ -68,7 +69,7 @@
 [绝对地址](https://github.com/xiaomaer/github_skill/)
 
 ####锚
-[回到顶部](#)
+[回到顶部](#top)
 
 ###符号列表
 ####圆点列表
