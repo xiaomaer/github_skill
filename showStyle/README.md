@@ -123,3 +123,14 @@
 ####给图片加上链接
 [![myblog]](http://y.dobit.top/)  
 [myblog]:http://7xj89g.com1.z0.glb.clouddn.com/demo2.jpg?imageView2/2/w/400/q/50 "悬停文字"  
+
+###代码高亮
+```java
+public static void main(String[]args){} //Java
+```
+```c
+int main(int argc, char *argv[]) //C
+```
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
+```
